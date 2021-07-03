@@ -1,0 +1,106 @@
+{
+  "iconDefinitions": {
+		"_folder": {
+			"iconPath": "./images/folder-closed.png"
+		},
+		"_folder_docs": {
+			"iconPath": "./images/folder-docs.png"
+		},
+		"_folder_dist": {
+			"iconPath": "./images/folder-dist.png"
+		},
+		"_folder_open": {
+			"iconPath": "./images/folder-open.png"
+		},
+		"_file": {
+			"iconPath": "./images/file.png"
+		},
+		"_file_image": {
+			"iconPath": "./images/file-image.png"
+		},
+		"_file_image_gif": {
+			"iconPath": "./images/file-image-gif.png"
+		},
+		"_file_image_jpg": {
+			"iconPath": "./images/file-image-jpg.png"
+		},
+		"_file_image_png": {
+			"iconPath": "./images/file-image-png.png"
+		},
+		"_file_script": {
+			"iconPath": "./images/file-script.png"
+		},
+		"_file_script_yellow": {
+			"iconPath": "./images/file-script-yellow.png"
+		},
+		"_file_script_blue": {
+			"iconPath": "./images/file-script-blue.png"
+		},
+		"_file_xml": {
+			"iconPath": "./images/file-xml.png"
+		},
+		"_file_html": {
+			"iconPath": "./images/file-html.png"
+		},
+		"_file_css": {
+			"iconPath": "./images/file-css.png"
+		},
+		"_file_txt": {
+			"iconPath": "./images/file-txt.png"
+		},
+	},
+
+	"rootFolder": "_folder",
+	"rootFolderExpanded": "_folder_open",
+	"folder": "_folder",
+  "folderExpanded": "_folder_open",
+	"file": "_file",
+  "fileExtensions": {
+		"jpg": "_file_image_jpg",
+		"jpeg": "_file_image_jpg",
+		"jpe": "_file_image_jpg",
+		"jif": "_file_image_jpg",
+		"jfif": "_file_image_jpg",
+		"jfi": "_file_image_jpg",
+		"png": "_file_image_png",
+		"gif": "_file_image_gif",
+		"tiff": "_file_image",
+		"tif": "_file_image",
+		"bmp": "_file_image",
+		"webp": "_file_image",
+		"jp2": "_file_image",
+		"j2k": "_file_image",
+		"jpf": "_file_image",
+		"jpx": "_file_image",
+		"jpm": "_file_image",
+		"mj2": "_file_image",
+		"svg": "_file_image",
+		"svgz": "_file_image",
+		"ico": "_file_image",
+		"xml": "_file_xml",
+		"xhtml": "_file_html",
+		"html": "_file_html",
+		"css": "_file_css",
+		"htm": "_file_html",
+		"txt": "_file_txt",
+		"md": "_file_txt",
+		"js": "_file_script_yellow",
+		"jsx": "_file_script_yellow",
+		"json": "_file_script_yellow",
+		"map": "_file_script_yellow",
+		"ts": "_file_script_blue",
+		"tsx": "_file_script_blue",
+		"vue": "_file_script_yellow",
+		"sh": "_file_script",
+	},
+	"fileNames": {
+		"cname": "_file_txt",
+		"license": "_file_txt",
+	},
+	"folderNames": {
+		"node_modules": "_folder_docs",
+		"dist": "_folder_dist",
+		"build": "_folder_dist",
+		"public": "_folder_dist",
+	}
+}

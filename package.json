@@ -1,0 +1,52 @@
+{
+    "name": "windows-nt",
+    "displayName": "Windows NT",
+    "description": "A Windows NT/2000 theme for VS Code",
+    "preview": true,
+	"publisher": "Wassim Chegham",
+    "version": "0.0.1",
+    "license": "MIT",
+	"icon": "icon.png",
+    "galleryBanner": {
+		"color": "#c0c0c0",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/manekinekko/windows-nt-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/manekinekko/windows-nt-vscode-theme/issues"
+	},
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "keywords": [
+		"theme",
+		"windows",
+		"light",
+		"98",
+		"nt",
+		"vintage"
+	],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "windows-nt",
+                "label": "Windows nt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/windows-nt-color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+              "id": "windows-nt-icons",
+              "label": "Windows nt icons",
+              "path": "./fileicons/windows-nt-icon-theme.json"
+            }
+          ]
+    }
+}
