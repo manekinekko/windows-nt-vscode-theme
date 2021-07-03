@@ -1,1 +1,1 @@
-# windows-nt-vscode-theme
+# The notorious Windows NT theme for VS Code
