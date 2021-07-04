@@ -8,7 +8,7 @@
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#c0c0c0",
+        "color": "#4A7D7F",
         "theme": "light"
     },
     "repository": {
@@ -20,6 +20,10 @@
     },
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "scripts": {
+        "package": "npx vsce package",
+        "publish": "npx vsce publish"
     },
     "keywords": [
         "theme",
