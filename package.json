@@ -15,6 +15,7 @@
         "type": "git",
         "url": "https://github.com/manekinekko/windows-nt-vscode-theme"
     },
+    "homepage": "https://github.com/manekinekko/windows-nt-vscode-theme/blob/main/README.md",
     "bugs": {
         "url": "https://github.com/manekinekko/windows-nt-vscode-theme/issues"
     },
@@ -31,7 +32,10 @@
         "light",
         "98",
         "nt",
-        "vintage"
+        "vintage",
+        "icons",
+        "icon-theme",
+        "customization"
     ],
     "categories": [
         "Themes"
