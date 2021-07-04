@@ -36,7 +36,6 @@ Note:
 **Prerequisite**: Please follow this [guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) to install and login to `vsce`.
 
 1. Merge any PR that is ready to be published into `main`.
-2. Update [CHANGELOG.md](https://github.com/manekinekko/windows-nt-vscode-theme/blob/main/CHANGELOG.md) + commit the changes.
 3. Run `vsce publish [version]`. Follow the [SemVer](https://semver.org) convention and replace `[version]` with one of the following options:
     - `patch` for bug fixes
     - `minor` for improvements
