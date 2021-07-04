@@ -1,9 +1,9 @@
 {
-    "name": "windows-nt",
+    "name": "windows-nt-vscode-theme",
     "displayName": "Windows NT",
     "description": "A Windows NT/2000 theme for VS Code",
     "preview": true,
-	"publisher": "Wassim Chegham",
+	"publisher": "wassimdev",
     "version": "0.0.1",
     "license": "MIT",
 	"icon": "icon.png",
