@@ -4,7 +4,7 @@
     "description": "A Windows NT/2000 theme for VS Code",
     "preview": true,
     "publisher": "wassimdev",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
@@ -23,7 +23,7 @@
     },
     "scripts": {
         "package": "npx vsce package",
-        "publish": "npx vsce publish"
+        "release": "npx vsce publish"
     },
     "keywords": [
         "theme",
