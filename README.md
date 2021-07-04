@@ -7,10 +7,18 @@
 
 ## Install
 
+### From Visual Studio Marketplace
+
 1. Go to [Visula Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
-    - `Windows NT`
+  - `Windows NT`
+
+### From VS Code
+
+1. Open the extension view [`⇧⌘X`]
+2. Search for `@category:"themes" windows NT`
+3. Locate the theme and click "Install"
 
 ## Override this theme
 
@@ -40,7 +48,7 @@ Note:
     - `patch` for bug fixes
     - `minor` for improvements
     - `major` for breaking or bigger changes
-4. Push the commits and make a [new release](https://github.com/manekinekko/windows-nt-vscode-theme/releases/new).
+4. Push your changes.
 
 ## Credits
 This theme was inspired by Windows NT theme. The code editor theme scheme was inspired by the default Light (Visual Studio) theme. File icons are credited to [Alex Meub](https://win98icons.alexmeub.com/).
