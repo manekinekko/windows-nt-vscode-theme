@@ -1,4 +1,4 @@
-# Windows NT theme for VS Code
+# A Windows NT/2000 theme for VS Code
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manekinekko/windows-nt-vscode-theme/main/docs/windows-nt-vs-code-theme-banner.jpg">
