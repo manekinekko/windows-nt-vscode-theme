@@ -3,32 +3,32 @@
     "displayName": "Windows NT",
     "description": "A Windows NT/2000 theme for VS Code",
     "preview": true,
-	"publisher": "wassimdev",
-    "version": "0.0.1",
+    "publisher": "wassimdev",
+    "version": "0.0.2",
     "license": "MIT",
-	"icon": "icon.png",
+    "icon": "icon.png",
     "galleryBanner": {
-		"color": "#c0c0c0",
-		"theme": "light"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/manekinekko/windows-nt-vscode-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/manekinekko/windows-nt-vscode-theme/issues"
-	},
+        "color": "#c0c0c0",
+        "theme": "light"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manekinekko/windows-nt-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/manekinekko/windows-nt-vscode-theme/issues"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
     "keywords": [
-		"theme",
-		"windows",
-		"light",
-		"98",
-		"nt",
-		"vintage"
-	],
+        "theme",
+        "windows",
+        "light",
+        "98",
+        "nt",
+        "vintage"
+    ],
     "categories": [
         "Themes"
     ],
@@ -43,10 +43,10 @@
         ],
         "iconThemes": [
             {
-              "id": "windows-nt-icons",
-              "label": "Windows nt icons",
-              "path": "./fileicons/windows-nt-icon-theme.json"
+                "id": "windows-nt-icons",
+                "label": "Windows nt icons",
+                "path": "./fileicons/windows-nt-icon-theme.json"
             }
-          ]
+        ]
     }
 }
