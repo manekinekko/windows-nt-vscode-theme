@@ -4,7 +4,7 @@
     "description": "A Windows NT/2000 theme for VS Code",
     "preview": true,
     "publisher": "wassimdev",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
