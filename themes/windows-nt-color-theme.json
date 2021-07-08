@@ -691,7 +691,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#EC4526",
     "gitDecoration.stageModifiedResourceForeground": "#522600",
     "gitDecoration.submoduleResourceForeground": "#1258a7",
-    "gitDecoration.untrackedResourceForeground": "#800080",
+    "gitDecoration.untrackedResourceForeground": "#EA3EF7",
     "editorMarkerNavigation.background": "#ffffff",
     "editorMarkerNavigationError.background": "#ff0202",
     "editorMarkerNavigationWarning.background": "#000000",
