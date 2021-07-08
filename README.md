@@ -9,7 +9,7 @@
 
 ### From Visual Studio Marketplace
 
-1. Go to [Visula Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme).
+1. Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
     - `Windows NT`
