@@ -44,7 +44,7 @@
         "themes": [
             {
                 "id": "windows-nt",
-                "label": "Windows nt",
+                "label": "Windows NT",
                 "uiTheme": "vs-dark",
                 "path": "./themes/windows-nt-color-theme.json"
             }
@@ -52,7 +52,7 @@
         "iconThemes": [
             {
                 "id": "windows-nt-icons",
-                "label": "Windows nt icons",
+                "label": "Windows NT Icons",
                 "path": "./fileicons/windows-nt-icon-theme.json"
             }
         ]
