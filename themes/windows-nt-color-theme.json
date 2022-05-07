@@ -488,7 +488,7 @@
   "colors": {
     "foreground": "#000",
     "focusBorder": "#777777",
-    "selection.background": "#000B7B",
+    "selection.background": "#C0C0C0",
     "scrollbar.shadow": "#C0C0C0",
     "activityBar.foreground": "#000000",
     "activityBar.background": "#C0C0C0",
@@ -567,7 +567,7 @@
     "editorCursor.foreground": "#0e0087",
     "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#C0C0C0",
-    "editor.inactiveSelectionBackground": "#000B7B",
+    "editor.inactiveSelectionBackground": "#C0C0C0",
     "editorWhitespace.foreground": "#33333333",
     "editor.selectionHighlightBackground": "#add6ff80",
     "editor.selectionHighlightBorder": "#495F77",
