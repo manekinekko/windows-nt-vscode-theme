@@ -45,7 +45,7 @@
             {
                 "id": "windows-nt",
                 "label": "Windows NT",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/windows-nt-color-theme.json"
             }
         ],
