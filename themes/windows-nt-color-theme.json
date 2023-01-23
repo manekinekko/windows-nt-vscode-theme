@@ -722,7 +722,7 @@
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
     "peekViewResult.selectionBackground": "#3399ff33",
     "peekViewResult.selectionForeground": "#6c6c6c",
-    "peekViewTitle.background": "#ffffff",
+    "peekViewTitle.background": "#c7c7c7",
     "peekViewTitleDescription.foreground": "#616161e6",
     "peekViewTitleLabel.foreground": "#333333",
     "icon.foreground": "#ffffff",
